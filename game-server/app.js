@@ -1,4 +1,5 @@
 var pomelo = require('pomelo');
+//相同路径下
 var areaService = require('./app/services/areaService');
 var instanceManager = require('./app/services/instanceManager');
 var scene = require('./app/domain/area/scene');
